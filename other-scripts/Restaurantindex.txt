@@ -1,0 +1,2258 @@
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "XsXLVWr1UZWVhKThNvNiaA", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "fupW5th9P2e1lKFosY5Z8Q", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "h0pRCiJDrCN7tm3VX5tILQ", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "83zDAk03lFXkgImgkLhT9w", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "UK1oGbr8GU2rufpnJR4-HQ", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "LT0yyLNM84EiJj9DL0rfHA", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "HScFap2SwbUlfC-QXVkxFA", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "l1nX-f46dmOEmYPoiuLSaw", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "0vg2Z-HPwkyVVX613j2ysg", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "bVkjBJlAIwKAj9Aw1KVWjA", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "R3UNnA8EbjhNWBHS0wJ0VA", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "oJ6fy4fBv_3WskxH4NfNBg", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "ZWP7yq9C2bhCcLkMR9BmVw", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "WVsPyl-DGRu0O_rQYdIMVQ", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "ojbH3wnRu050hRhkmoxRiA", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "A-ert0jDRBfku9ogyW_mEg", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "rZTC2nLbrOUfy9bKvhXnuw", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "BPErPpKSNluwcjbKRgze3w", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "oowNI_aUmGEFa_VW8BFgRg", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "0CjK3esfpFcxIopebzjFxA", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "xq0cX_DgxiJMXwhmEl9kUA", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "wDuf4Qz9qsC62amLZgWNJQ", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "Y5TqZhNxPC6BWnM7zsCSjA", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "jc7lVTvmYMIK5RNpENtS6w", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "Ece_DRuD1yQjRPJBAebRpw", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "qrncvjkiKN5Z-JC06ygy6A", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "sRWRA4dcN_NR1JGpuRVouA", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "mUl0wtO7tPkBocuJqZ-7Dw", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "1dFOF1HPaThSCsdiqR7DrA", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "wfhMIiMh2A2psCGONOVSlg", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "FXhSEZfIqjMZh4hR0_8jMQ", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "qVrbv-z4dDtAVUjLtSgJqg", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "lSuyHj3cCXbKjcZaakF9lQ", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "OvdCm3j_5HzItolfvwrEUA", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "kwqOmEwWJ0D9PyCdFGE3-g", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "6dVXDdgzDEVt4DvHzpWo9w", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "0dDCDQz7DrKkSvu9h2hcQw", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "lynQoI3w_pzYfHGeuUU-Qg", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "X8ZS-dgiMIJvhwf9SaDnjw", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "m3gXIgSxJapyDaSPKBjfYw", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "YDZX2bJ1IyV0lunBYqbb4w", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "qGgQMVExGERqGhZNDM2ROg", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "Qwd4Tv-CqgO2Yl9zZgkKOQ", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "NoCx_HESUSbMgaelj_hR6Q", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "ycaOcLWT4u4IMHljEoGdFw", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "GuzlMBKNoClNx5I1-x-DDg", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "W1VceP79ofBePm3izXJC4A", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "s5JNxy0eAFgxS2Poi73ODw", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "sBCJYLPNJuagg-aJ3Y_ozQ", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "KOg9x0nxrgn2EmfUpI10Fw", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "nI1UYDCYUTt23TpGxqnLKg", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "pCfGgX0WxGASGM4-Yhr2Pw", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "TU_BU9HLflYI2xlyqVQdRA", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "-lKKdp0XYVJY2DWL-ZSwtQ", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "_fTRTishY3G5dLPLYGCVAw", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "HR_a2QSA_KJZIakufAJUmg", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "4FD0TAxe70nb3ngk3sXF9Q", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "NN3mOWF5e_pnR1ArqM2bHQ", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "QlFOpTPMEIQDjrtvs_zKxg", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "8plXW6ZQI1awPu1scms3jQ", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "KWx3SvW16hfSiFOAd4WzTA", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "1XgqwPF8JN-OVYDaKmO6SQ", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "mK-Mnbf5bCk5Of6_yZt3jg", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "LNx49p5HYVc01rKnkfKkFg", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "croh2zWlbPyCQTNS11klcg", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "gJXNSJ9VXTuCFmp_Kl9TVQ", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "6YehBdKHcLDsvaewhcEjFQ", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "oe8GEFE4QLFAKt87y7zcgA", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "FcQA5tV8wlz6jg_UK_s7Hw", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "-gDpARzzNwy5PoEEYYF4MA", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "3Qhu8JvfkMVLjR-Yh3XHsw", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "Irl5EDZ-wBbb6AsxCjrbQg", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "B7bxdtvLYR7Nmex4AIFd4w", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "H1jops1lmuhrq9lP7lEGJQ", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "pVlKM-vyOJxfoJ9fwMDDfA", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "SR3w3XVCgpUSwDk4sZzwZQ", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "TzhAlljC_843JO7UDDUIaQ", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "XmA6dG--QxGgfsdmWrL3sw", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "M-odQWSEfsR2mVEw7nKG-g", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "iu1TLnNH13AdBDg_LmnuHQ", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "rGUv1nNmsvy2jOlZtbaOpw", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "wyjtGsW5NeVDknGQWnIPAQ", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "-lgNzAEyFr8LCTuBTWnAMg", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "LVkBYW-FNaZ2h-0zB8-vzA", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "XaEFFUabnbH8ZF7ccmSAlQ", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "E_Rxnmim6J2ECFtU0QGlsQ", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "FcXsiSJbk2ZnHyFJMkMK3g", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "w4aW7geanPgny-dxsDNkMA", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "WRRs3smfm6rHP5k4Slzr3w", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "sfsjk1h50ooC2ioY7m48gw", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "ZYVnOS12C9x7-RS5PY7mWA", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "c2CUs5PlcvfGKiUES1_JTw", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "LQHegfNHe7ylY3bocrFlpg", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "z5f--L8_vB_WvSaRca7LQQ", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "iXH9H75idkSB-Eudo5ABhg", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "8YWLuLUKj0t_0_Xv06UUtw", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "DIwe3i_-OkvfKAHrNDGtSw", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "xm_-5QZFzJidiUO--PgOYg", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "QaolMEijS7L6eodSneOdng", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "XvSoRKqb1Xzp0uMbBX8GQQ", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "s25mujxKWphsyFm0Ji1xYA", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "UaQF4mv6hVjiegkwUvQeMQ", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "3eBV6HwWcdHzJW3sUH-2hw", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "SYFLyQAFRFoDURRWafeLKA", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "rYw5rQbWRX9buZHZbxqWdA", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "NFDN32ekG2gfCIikVCm0Gw", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "jwKPVep2qZYBUA6SLLQPvg", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "Vzx-7-jSEBz2g8NuGVhHvQ", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "l7G5tDA96xbA_bx1ZgkOeg", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "w3wKbjuNCZnYoPOr-FCk5w", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "_RWjtuef4HTFQ9u0Zj6pgA", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "FQi7AP2j9UYc1c-VTF00rA", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "jjJc_CrkB2HodEinB6cWww", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "Q85ScF9s6vlS5_i453AFvg", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "C3tP0fNNAoxOAC3O406CXQ", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "RYoc4EBUNOtgbg7c32OG9A", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "k-pdGug4qJ-EWd7TPuOjTw", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "_2Ymg8T3aQyTD40cpoRsSg", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "0uxLYjybBFiIjTzyuejpxw", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "uaFHoq-a5XqxF-bsOK9_Qg", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "wcrra8bgoqXVcZpMM5fE1g", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "nzqNfNXjtB6bxp-UN7xXkA", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "U8la2dyPP9qCEteA4FGi2w", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "gReThXlypRra6ZVEBlYSRg", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "8ZBbl3VN-cu6PFOL0D7-8A", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "HduEOz0RSK91GDr8EoxELw", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "F6V4YtVJwreIEoD9Lmc6zw", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "ipPhk_Tmp2JYInPWJR-ZgQ", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "GJZnf3B-ADjlCV1NXsHvGQ", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "wRCtNWi6QSjhxYVqSh3j4A", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "8XJrpuI6RHMXmjrVzP03dw", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "OQTbwd3iRAKqfw0YFZmqtQ", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "ICNwlgXTrvFrGvaScUp8Ew", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "_lx7nuvXU7LhDRL3a9TMAw", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "qEe7nIhPfEL6L0-VYhWRrA", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "cJ1Uf4MlR4egrG-lbfh8oA", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "GAFqRBlqZpLK2vYbiqzYhA", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "7wrFd9tnIBMClzDnrWdSNw", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "wCg9KKl42BT54p8h1DU_mw", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "MdDj13LgIs0WdbIdiyqB7Q", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "gvOe1TLb8hZgx0naC9LYpw", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "NebgteFykeM1gwiVgPcCHw", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "7ZQSMqWzvXMSetXnii2fBg", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "_7GunmWHykEJ5_u2zkX1gg", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "4DInnPhOyvXFbYpUdO0SMQ", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "LTVNsNBh_0FI8MYrPfjRDQ", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "aWkekCYI9zNA6xDwYEtYpg", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "Kqb7MjTPNkjPMoFRd-rWpw", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "uhhOOprg9LqysXuQpm9H0Q", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "RkcQl4uEJWblWf4xX8ssqQ", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "eEeBhw0UeyEyH5elwm9ULg", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "JxrTO6uUxYkrKvFKg3JmRw", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "K0qsGnFv-edPDqVBdLCocQ", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "iM2DKMjyU_R1r8x-3AZGQg", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "ASf5l4u-eMhBgNbPy5HLOQ", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "AILf_L7I9vJ2pyHmSo9v8Q", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "-Q0HTFIJ1aZekdPbY1QrRQ", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "vZgJyMZlpSSS_Y-duxd4_A", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "oTkzgr7hzOAdlP99Auj3GQ", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "-Exv1AEsaKU6Cdb2TO_ZUg", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "BexNFvRW1iMV1kiPwzzyiw", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "EcDHcdZP3N9LX0qCeo60fA", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "0LFFYIywlHaXpTeYrJe9Hg", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "MhceeLrM2_3mcKw5EGLY6A", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "ItZ8CzZAGXGjB8_9HxDIXg", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "Dqp5Itsj9dN0Ewz8Gm853g", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "smxIke5NSkMIExa6jLVw-g", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "fjj5hk9vmfjaxq855OBQXQ", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "fFrQ4Hi5hKGjpxDpqyx-mQ", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "Ej-hrhc8HFWfijN4X5akOg", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "-VRnWGBVMovSS0Ijta_qyg", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "X2CQCOS4AiwKzqAOrZxeYg", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "Jghofss7sIseYyJrxxn0zg", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "3gqKLANaXNsHZnPDjKrcTg", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "_-Gb3IAx74cyka9yTOb_oA", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "Ykd24dTAKnU-Er40fSfIkQ", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "uSA8YIZaI-2ikkkLzLdwIA", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "zj4vqgljRhxwWlvttgFRKQ", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "VW2Epq3C8jqysu6Edpu-RA", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "JJx2ynZY-KemZ4GlcMWv6Q", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "lTJtCYatAk9oL3ncVofr6w", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "iSjPBJRiWqrgxW7ZM3CGig", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "BtsXojrMtfLRhhFK7rm35A", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "Tkd1XoIUPa4wor8LN7Cfgw", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "RWqYuXGQyaM9vl7FUhyHGQ", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "Lp8vAE5nHSt5zbu-lSGK8A", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "UBY796Pa8HAuqC2uRR0WNg", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "slMRh4GEu5Mg53kicgmf4g", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "vDPx5p1TlahKM3kEKF-drQ", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "Pr-q47vsmM4aoc2t_Sfk8w", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "ccQ7sSdnvNkBGRHtpe2Xxg", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "wjIyCBEpCG_HRp8veiI0YQ", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "ubCz-rD2UFAhGahsmmf_Ww", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "Ig5-xwGEXMFssmwIvzxCRQ", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "wobICp6lQP7Y6dfnJ_4Ujw", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "g512kssHLLTdDbUJHTmJFw", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "JaKLZrh1Y_2qB_0Gc3bk3A", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "YP1NmKpi7-KCNahX9Js3Ow", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "gNGxh97n0NZgYG1Q_no9Kg", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "MYPes7EWP5aLiVG1Z_9eFQ", "Cuisine": "chinese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "klAhw3xLQi9GF1tf_HnS7w", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "itllIZ9A2UAkGjplsjNtlA", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "3QIFBLKp2Z9zA-PXlUEQlg", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "MLBqYHtCwACXgmKxYTFq3g", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "GUOSYM9barqsuIxZ5jO-AQ", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "FlZ1zdVEKWv7dwqm8Uw8-w", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "7iY35991NhQ1AShJZCNZgA", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "n7hfvvUtzeaLwKCGVegALQ", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "wpT1QU7PSQgQQ1DkzI00JA", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "OFfZUS-nu6NDnsWe1B2bUQ", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "YC-wGlO0oOkEIaCEDZv-ag", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "l_RAv09V67j-Hm9dyZxWhw", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "rp0cBF6y058ENV6oBSDeFQ", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "6lUsFj0KCao678o9L7QwUw", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "0UeCicK8Vs7WM_xZynH7ng", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "HZWHBfeuP4Fb6y8b8uqnbA", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "XXzfCImkzzU85Gl3O38THg", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "-J8VuX3wGrYSOBu2G0hMsw", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "cYFWtHIlqnsx_jOtikSWSA", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "qm1J_dPA5IHij1oAnoZwHw", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "Weq9PsmlligV6f9lhhbqiw", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "cT48RskMO_o35Ua0tlifyQ", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "P7ESDIjeuFeLF0hZ0V_yIQ", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "5deTGZyJXGo7UFzUMD1dWQ", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "eQ4QUGvuHGBzsOrphsVc6A", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "_IkMfWpOkQXRZtJAYJUJIw", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "-0qjd1capMU0UxJmvLxiIg", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "D6ZEcG1FCZ18nekMWrhgMg", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "02hpl5b184L-df8sUq2cHA", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "OLSSJIp8pu5UlugTF7tuHA", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "q8RbIJNdxYLDt92pN8Bl1A", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "K60mCt7NyF2u_EBZBh8ZGw", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "zHsK9YUH3lv8VlQEAPw6gA", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "PTYUAAJbEmvIv4EsyRrcnA", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "hUf1EpnxbxFU4gf2nL7H-Q", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "w2OYtgtVmMyMXnEjYw4Prg", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "1hY3ldzl_kxyMP_l5EcFlQ", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "diz6_4TVSP6EdWEZCZ0Acg", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "n0SCwBzyUe13mDcxTp-ZTw", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "479rycCXZojMT9S0cl8Oxg", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "AAP2fFjya6uSkZXTzGlg7g", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "_2V0as8DZDwVxAi3ZJ0JkA", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "q_-h5M7fK7QjIIruBfgbXA", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "5llQecdr7h5XY2tNu405pg", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "WTLVDTuu5RLrl3dsWI4stQ", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "iGmQlzlI4g2ky8cogfDpnQ", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "icpLRhJ1jpBX1zBGkt7Xqg", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "GG72AwlaBM90YdLvRJliFg", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "aTzxrI2o3vH_HQkqeFszzg", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "KHRrlw05_pv_fd8ntvS1xw", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "v9bOJ6cHFM6wp3OFvmK3ag", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "PwdzepI6__N6Vlyxuw5CrQ", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "MWx4HB9p7pCzse9CInLuDw", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "NRJq2BNcbjqAyxUB_bw7gw", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "dUfKnUnwaYKciyoRzDBLEw", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "puA-VxTWfdxBgeuqBq9-iQ", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "3aKryPeyoszyesFveE0WZA", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "SnFSFYfPnMQWVd25OnCwRw", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "6qK0MyhsXYLgMSPWZdleGA", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "QJTLAOMNvhV1_jPfcQ_qPw", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "uXsYr76zioJq7jjOKRwQog", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "6qJLcBodGdblKfpEq3JlRQ", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "MTtqSunPEZwdCJFMHsiHzg", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "KcOeFHAojaRDV-DxQJkfPA", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "ZyPVQD7iONN7LELgj2ALSg", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "2frTKUfKKrxs2c9GdTWGVw", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "8NVN6Nldm7AGoGaABBZMRw", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "J79s7qmQWz7Fj9-cIg1dhA", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "aK2ipD9K8-usBw_gkvvJuw", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "AYTchJkN30dG9jeaVM9SsA", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "orYWYTk6kNK1YODsADk_tg", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "dCDpb-fz6Ton9AXLoaWIhA", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "TBp9gdS6xEbSQqffVZ7iag", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "mESab-FqL5QqSVsnX72asQ", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "ipHexy_gCRf9uDJ47Grc-A", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "U960rh4GhDmBL6vmhdjHCw", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "NSjRCDj7EwvxfwksaRKH_g", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "nD4l211Iu9_U4_WlHjq1NA", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "f48yzy50jQDH7X5xFAluOw", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "MwtXOkRUndPU-ivbtLD-bQ", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "kwq1W0opBnOYKoUXWYyQ5g", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "9bAyxRD6RsGEUQw424ovQA", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "r6r-XK_wL02FQdAgaauTxg", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "C5tqSSgVPfgtsJn3QnvDiQ", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "lSKEPxxTYxCN9oi6CXRmcQ", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "XOUhjDQ4nRn8-u-79MHFww", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "j-r95E-S2GUyoR2b6MTqpA", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "FXimZKjpMjbDR20M2ruhvg", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "Q23LvHPuC9ajSbMEt8xoUw", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "BPZfuPvSxCfoppU4lPFm0Q", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "Ta1tudYs2rPuxo-Hcn7_NQ", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "Kiwycycledob3b6wOxoXEA", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "7OMGEtFWT6sdd9TVuoGqJQ", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "1dXX0xXyr99Syd_ZRXwhiA", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "eQFev6AKW5AHz7P6jt0Giw", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "NVX44seKLzGm9Ena_of74g", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "h7mZcgTYIkUEjRmQMVFjrw", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "00knD0qT1obuq3cJ-lWcIw", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "zvbF9-a-4vQtoIZHQyVvcg", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "-J3YblkWzqFtQeVKwNxo-Q", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "MQv0qZKn9sEMCKfvBV9inw", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "nt805cIUirCK818hu3XrZw", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "AVLjl_fRqgv3TF_5DoQulw", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "ulyoll6G7GmmWXzBPSD4mw", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "PkljF7EKWE5CfPD_zr3Jyg", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "TN4RnyqHMSupRFot4Q-_EA", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "WI3-141L-k7Cs-HzJY9SBw", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "TcuWyuZAORVnQBPCMNbTgw", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "RDL6aNutMBQDnsKM2RhjFQ", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "HqO-ufi7Yot9Bjam2Y-UMg", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "lNajNiAaVaMg7f_PNRiksw", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "fePu8xy0ir_ikZcS_vVSBA", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "REWoI9PjWcY9MNbLmSijjg", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "pou1-d7PENs6AD4mnt9P4g", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "-dXDKEy3i1DurRFkNPQ5Qg", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "oc17OgzP9_m5KQxhv-tllw", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "f-vMQ2Mq2BK3JtC1jzFA_A", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "B8wHwGZCddRZ_T953FApxQ", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "SxKvgnkMMZdhBJcxxKQnww", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "9QK3vhI04Q8ylqk49C3JcQ", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "kCpKwCW49k3ImuI5cK6LSw", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "wcnfhQ7Q_us38Q1uEARagw", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "0eLtFI6MeEYM2rlMtcjRaQ", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "4Jp0wdJXLpmgCwWv6o6YEQ", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "5MA1QHM_j6Ee-cFUzDsR8A", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "flHcoaHEWxACgc-Vk9MsOQ", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "dtk1Cstz5MHr-B1AOM_nXA", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "VzstANC68PM1BbyOcDXEtw", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "vX0_qcuVXoeeH1_24I8lSA", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "8H9B5dcQVu4KvXAaJbz-AQ", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "Q_81mthGMrQM6Qg-QdnOkA", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "UI6YjZ34NnLdymKx2qf53g", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "XscJ1wAVdGzRYsoBL646mQ", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "RYKGs45OjF-vlb2Ds2Jb_g", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "3paq_lNru7Dkdjg5q97UAw", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "8tcFpd0dcmfzbLgbTO4tdw", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "Qi1AoRNcFEX8etII_RZkFg", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "axqp3pGJXnTLgq2QrPyDyQ", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "Wu0eeQ8Wk_Hjg3cleoxFlw", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "CNX9mt4FJzJkEti8G0cmqA", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "X83qWL5WPR-QWGXGQ8WP-Q", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "j1767JNAZktP3XSySRPU-A", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "qVlDLz8Ri-ThAFJgYHuQ9A", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "mLwZzB7dJqgYms4G3YLpCg", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "aY8JCml1xlOg5a1BHn2DNQ", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "EvAJBgBdgOt1jx1EufRN7w", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "diiUjS6uHvbQRoiWOGKXsA", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "NPpbHMP5HYpsBOUuYbttyw", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "W08oKnigMWp4FFiGF1NJVg", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "VvsZAnEwU4c8Xkyrzx05Nw", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "TWDUm1Vhga509lxtKof5og", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "nepWwbG3pvzHMnDFclw2Mw", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "IQg0jXiHDz3heJHtHchm9Q", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "a6mOC-hw1W81wXJbHtzGOw", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "lT-yNq6BW2vonJ9Ik-T5vg", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "GHoFi73U4LB_cBdRBPN0GA", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "xtxcAUvrD4dWHJd0cwvW1A", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "NgtVHBGqkR22c_V7Vm4DIQ", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "TjFtyhvGTpX931LEReZdOg", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "F426WgYFkWA4nVuf70V2Hg", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "enDIsmxSG2bQccQWgGNcbg", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "AudBWxeAr3zHr1ITrTcVpg", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "sWYoIdrHjnzUlWAD--r-bA", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "DNSFvZtdsqkaidmFSpm-Jw", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "oB2cpcZNyjDklNqZN0n8hg", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "ckKesx87kS7kaERPr5gQDQ", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "Nbqzy3ea5_x2zXWkdWlUIQ", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "in1CBl2LwIFkLzAr55jyLQ", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "6t5xWjPLWAjJV3YFMX_oaw", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "MK2ceJ1VNpbIVJOv04BAqw", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "k_rLFIMOAbvchgWKEuKdtw", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "qYV_BJ6Pkv6pUFm26nW4Bw", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "qoCcSdwLW9R7625a6rn8Mg", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "vec8jeVbbSGzVlStl0Xp_Q", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "REIcoQFvGB7B6S0GmqHo1A", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "4SEUkZNKul_ZCMBGd4UqIg", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "zGAQqDu0Ak2khVYs9WdQxw", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "TXEl8kyZ4de8CoW7nT_i3A", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "lY_gb_hNbit6GHBiOn3VeQ", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "5ZgCfc1_fotAKUp7n3YJkQ", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "Hfq50FEuWpPgc9nXBOO1IA", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "n1xpGOPa7XRq4or7QLjzHw", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "XfOCJ841dL9fPBY_BAyayA", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "URMoNyL_GskZ2Y7igUSxfg", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "kN3rkbjvqkY62CDRYUVz4g", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "8r_vVxNjRaj3vs-TQntoLQ", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "ONQRhDuWv0e9R5xOiI7YAA", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "U2dkXYTPNzQb_7SNrgOOLA", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "0ePn6TQSJQky4ueKeGQvpQ", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "i8ejDDR4COtukAAA1Ls5fw", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "GfC7pvsvhZX4-QAeZ3z_Vg", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "U7gqQHSRFNYCad3qGLj3yQ", "Cuisine": "japanese"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "VmdyRRMtUXOWV7F7w0ImwQ", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "16ZnHpuaaBt92XWeJHCC5A", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "DoSU8IPq-Py_YV3kYmXPfQ", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "TzVVPWK_4dhdSEpNqZwIhQ", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "qD90WXR7wrrId4Jel6rcXA", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "26emJlm1YMFyOCezfgVk4g", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "rp8S7scxOkVVeG7dNneMGQ", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "2--mg-3NB4fci7tEjTptCg", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "LUjq-_hs89D5N1UGcmKAQw", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "CIzl1SAhtNUGEkLgvTB9zQ", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "dEOv8_ivdHp85OK_TDQh_g", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "JFmWkslCGTeuwC_Yews4-Q", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "bekZsU9HwaVTiR937JxYaQ", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "aPdqzwneUH9tezUTuHv5Iw", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "fyC2cBsQ0FsMJmv0jSworg", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "5TX0X8w5ssIACU_pnBEq6g", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "OWNmOq-TAsHjGcYdCVclSw", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "JLpEKUYAtzBRQwsUL3RPIA", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "32WerL8Y97eDpHQqoRh6CA", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "hkooeEkd3oPsLD6JJrYpjA", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "vXnp_swBdwSZfxeMwsqGHg", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "WG639VkTjmK5dzydd1BBJA", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "yJF0VCK0ctftWqSmG93DZA", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "qxOZdB9E0xvN4avzr9rTFw", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "zYaYXpmlo6QdnaPwuxWHhQ", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "h37t9rA06Sr4EetJjKrfzw", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "8oO6j7AlnAbMSJs9Oj9GIw", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "raqwXUBlnc0e8c7CYmxEJQ", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "hdiuRS9sVZSMReZm4oV5SA", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "22nKUyCIbpnzR6R3_g1ptQ", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "l7OsDvMOO3ji3fg0nT0QzA", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "zRXMvxUX_rOliKZPpkWi_g", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "E48WbksxAk19a8vjJRVIVQ", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "hzPBADaUBQEL30MGrvKsww", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "z7H9ApIGopnDnQaglnPTzg", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "NlmP5x_Ykznd55Dc85ChUg", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "RG5atiZtuNtpDu6GrNUQGw", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "vjubSxmdG_HoBBgd39geBw", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "LXdblKc5g1Dp17xiV-Am1w", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "MOwB9YYd-Ko6nVgSB-ltQw", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "gZz9A8k8ORC_xl0aHxtY4w", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "V3USzFEGhuoXez4G2Rk11A", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "HR49vM1-kwejaSTwVrEfBw", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "GjEE8vvjqb7eeHA3BGNxAw", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "rFeNJtqgMWf2tWy-RB6jgg", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "DGhWO1sUWydVeR5j5ZZaMw", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "oUVX94JtKyLPXozC2hemCg", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "pk89jzL1RsE9U0thf_z6tw", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "CxvjELoFzpQz-8X4UCcB6A", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "Z-QmxQZAJEy5GXqA82Bemw", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "OCTiJwvjoK81WoDwsTkFvA", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "UHC5GxgWw6nQRYPQ_ljOsA", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "qBGKigOGn_flCx1apxPzlA", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "OAqsZMbjv66nOMqlimnYuQ", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "q3_FgDWWuXcVGiNuo_OPBQ", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "vVVmHacu2YAxKfpIjhfd1g", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "dc3hkLkAqCSxDWQzrx-g9A", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "1zHT73rRrkpw7MwgRs_liQ", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "kIK1DBH6ODkSouhvz-4VWA", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "eOavcW0CTyYwbLxnWWtrIQ", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "SFBh1Zr15wng1Y7aVtZTUQ", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "HpxYBu1ARzOGvuUcLJe54g", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "JOvcJqD5eCFrGjFa6k7vpQ", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "yB4ziqFM_7V8JxJas7CHfA", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "XujJhk-uQQezYgxyx-YN5Q", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "21d4u2dsNhIB8JhrVD5Y-Q", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "4eGCuMwKRCCrYHOobEsFpA", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "yQ7K4uFnxXxpBVbnOSR8kA", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "1VTv1wBwzzcD9k7qxC7L2g", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "OfjW5tGsQ64qQE8xcZMoLw", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "7_hGsGEkHrjgAiYVjrCFnw", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "zg9Jrtx9rqTXeaqufSOxHQ", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "d15lwNLOlLSeaAYqPadntw", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "Tkid3kovRVJ6vmK7XAFHKA", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "RXCCofQw1EjTcSN0ZeXfRA", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "ifIfq2EwEohCgoKnG68_LA", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "TqNd-LKHuoYo1_mYwqiBFQ", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "lgFApPVpbXnsIFw1CRJORw", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "rpVX-o82EEOX8ZDnM28a_Q", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "AUifp6IDKzmorCM6vY2fug", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "Dng_LID2JNnc6M6A1FB19Q", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "aLM9irVFlNoVlS9dGuW_Lg", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "32VbG_XgkZIuye0PV-BxaA", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "zjglOaCY8xQu3s2eKnLFzw", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "tetdpMUTnt_6lU0VJS91WQ", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "562aZEpTDdYKDe5hWuDyFA", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "h4VCnZ2aZ33mdenS_ZI7jQ", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "jT_MoIPo-zcg0YuPKO45eA", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "WESN7P6dKjgipjcd8laKIg", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "goqTQ4tOD-asC_ZJBW9l7w", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "EM0JnhfXWwr_Nqw4_AjWAA", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "Qro_lPPQZ9_cehKG7MIi7g", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "DN5OdRvf4dVB12yWqKdqKA", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "J0SZjwe0Rc-H6mzl0oByxQ", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "LkV96_buOU_n0br4SBO57w", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "JzF-uqVuXXeS2-_rU5G27g", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "mTWlEiCUEBlxBAkIikkB1A", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "IPXRZgv5f5HpXeJqFXW8ZQ", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "UAMbfUodEHMAIHTltCtyLA", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "5pRxCYQppSq0czjFDN9X3Q", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "HtQxQo1-gfVol8y5Izu2ZA", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "faukkggAc_tuJ4THYlf4fg", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "7jG0JgpWs4APQRflhIyhhQ", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "obP_W766ISrJVEM6OYrMSw", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "3qIISjUYn1tbqHXi7nCLXg", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "V-FCEicobl5Su-R7EVJQNA", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "T5dgMOv1iNY-z2ibeFQZgA", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "r2nIYBSyXny1-7XvsL2PVg", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "Ve6GVzzJpR5QIIPdcn6ViQ", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "0axnkZlDiQcJVc06DDXxGQ", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "tJxAlyeT5PRbUIyJ2wsv-A", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "iQo5aJwTL_ZrXCdPFKq-RA", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "JliAIBARXi9uISzNG26DVw", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "tLZfepIfSf0a80zHQTbTGQ", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "IOHaEgK1zDvUvB3SfKuGCw", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "Sp-vnk-waTvKblG_88M4TA", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "5EQOEAkH2Qh3Rv1TcnE7yA", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "urpBS_SwoSwonOtkwJ3i3A", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "EaAAP-gDALDL7GxcseMjBQ", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "Rc1lxc5lSKJYd162JHNMfQ", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "Zp-K3ztVTzR-LrWwl_CBgA", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "syNFp2qrQtXfH4bskQVgaA", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "RPP_wHhM8yZYIP5W-YHk6Q", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "IErfGS0DASSJfYU73m0Sqg", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "H_KyiRhwho8rdlw_R93_0Q", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "qwgLrsefMv3HCspzThGd1g", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "GAvyDral555vltKrupUcjw", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "C3E8CVVwzKtOv_sRR1WuRQ", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "FNxOWxts63oDRKwy9Pbfzw", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "T-RXDLq_VEv7s1_SooYIYQ", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "5F9kZPnAleDYqCeCyvGJPA", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "QPEzLkO35OTYijFhs8d7-w", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "XyICIfSun7HWtBEUFux2PQ", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "WYhRkUATHRyXZrE55MArbA", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "XexjSghlBHlXiAdDYpYZqw", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "LdWyeeV8DuYINKVTghFwrg", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "vAMKgIUWCrYxjfhceCCNAQ", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "H5L18XZRHh_13HaeeHH_sQ", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "eMSTTuOUlKEnSOr8lPp3Xg", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "qKfD10PsDKP_9B7O1_7oJQ", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "5frcf3YK8Of3lpGbWcGmPw", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "9K0run3oObR0YT4jaOEvWg", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "6zxulornYzrZtafE6EgqUQ", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "f4QBa0khsF9Ut99Tc9IMIA", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "rupPZLhd0oRSAmVDaeYaGA", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "vbGqzhH_exG5HOG1I23kvg", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "w5OeRp52eSC1rYRApO6bXA", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "tRIHhPKryUZ56SfIz6mLiA", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "6Z5OWpaeGGazJHR4LfThsw", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "dh5r9-SbN8xJ76XvnayWLQ", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "5zcZZJhriNQ2R92r9drxug", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "-vBfKWJ1v9YdJQT5XUbcBQ", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "BPo5XByMdNiXK_i--gqiRA", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "oLA02lMIfgvbYquvXzkARw", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "15k7iqFbhf4h8L01yggLqg", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "Q1_UvNyONsaVS_VC1mD9Dw", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "jnHbdsqlTKlPcmJ8BCP9-g", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "3FJjOq78eeqakDCsJHqJug", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "Vs8kQ4R381y27AH018gLpg", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "AbJU6EQvbWS-zsU4FU5pyA", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "jDIVPYpxQAk1HUAi0NIlQw", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "y6V0XdpXbSoM4rHxLy5fwg", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "IxwuIDcpRa7EpQs7V481Ww", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "J0OeDwmh5JBhid0A5GvltA", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "Hh--V9eEG_fu72-QgGR6Rg", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "d5ya04K-2A_hI3Xzqe1HeA", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "nBy8KtcUHktPFKw-VClG1A", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "6n7D4amt9vEruR73tt3S9w", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "PGpCaNkB1meojnbgRmb2gQ", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "moThUjdIKHQ8sztOD0cO3w", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "abZ-mEvF6Tj4hfyIg0lKwQ", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "DEp-9JVnKN7eTb9A_mUlfA", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "g3GKSrzWSYKDzIMzjoAqMg", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "gObd5Qhhv5yL1zBjRoltxg", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "UQZmhaPAMdZabid6ccvhTg", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "-8_vEcBA2Lqd8786S-Ss-g", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "qgY41g_eg0eNzewCXmKcaA", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "o2SAcKbfOMkA71xUfyee6Q", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "z8TIY5xLeQptbXxZp3LpsA", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "wzHyRI6iW0rIY8rMb3KClA", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "Xv89MkNK3O2Pm2KhSOaJow", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "JBthOvTegHbrLDiVaCAy5Q", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "QUTSHrHw3qRZjf749VM1Yg", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "oRdM7n-AfBPBGAlH4Q0Sag", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "hOzPAkK92GtpGM7JOSrDYw", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "2pb3k7Jye9HvGMS1qtyNBQ", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "3FLA6KfNUqvLPNpqys1AjQ", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "SpJdCnnMMZCiU250gKFusA", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "-0fjWWC2SY6kNxGfD8PKGg", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "WAVszL8c2-JhQdFpUAxFBg", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "6a0hIQTRVP-zlj_AQHrd6A", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "f_1BjTChf6bobreSRpqhsw", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "q8myw-sQtrmn0w-tKSC5cA", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "4RhrQpbhjDmOyXT3qz7v2g", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "vGS5X12NYXCl8NpynlxRuw", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "XfOa_KyrV7JSFJMOKckGMg", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "5Ukroq-mXS86EtRKj5deAQ", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "a4WZUTKn90dOkeY38JHNjQ", "Cuisine": "italian"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "MaoCNdHni6MLjM9iYQqHcg", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "Wx6lMnEh7dCmX-9PQF1Ifw", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "Xjswj531-FkRZPpcccU6kQ", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "GukBzzNsZMuwfVey06advg", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "8SdKtlwT9vcowN4veZ8Sjw", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "7Yh4Zp-l3is-4V9MrDoAIw", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "SeI-nIE1Ab5U53mB_e-1KQ", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "SOWmvC20kikJBoWE3TmppA", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "qfptAkTklsKwaKH4AsDdfg", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "BsDu_kup3lJ2QHb-Botpeg", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "6Ct7OeTRn4caY9g0swFBsw", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "SULHf6nGQ8sK0UpG1XU30w", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "zKL2HWfbkPvntdlO9aIECg", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "CoSXktG_8Q_c3WD2CB4GuA", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "xWLSJOiN1mMRHmBmHyjAfw", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "-yyRWJT4Nt1hGI6XeZltQQ", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "of8nJEagUSBCOO5S-sEAcQ", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "PHMkwS5nmo4IUXbcg0OcAg", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "PAJdNrD4HFBN16OAFeDx4A", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "3t1IjhshYUfDWIzpJn5YlQ", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "xemN4tP9RlK5c-yUT-M71Q", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "kn9rgR4KlvyTTi-s76OIaQ", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "a2BkT6uUKDpzhLalkksJsg", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "dYWjNK07igws9jFNgQmhng", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "YFL1rAdlv7J0cswHVhvCtQ", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "tvqtAjAyc7dplVVwhw3VZQ", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "TgoYhgbPCYhLBNtpue3QHg", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "6ezrABEThm48qv1qj8_FVw", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "L3REPLCvQpMapYPd_fkS-A", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "UjBZR0Vyl5zpwDVkOvNceQ", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "DFRpXRHjOHBxYHiuvwaEQQ", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "eM5uNo9gsztpqAFBqwWWxA", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "AoObdns-Y8YberOURhsosQ", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "0ksKKrgHt-6xCCHfTlLcoA", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "ED91L2kUw_pwF_Pd1ZdViQ", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "7ERwg_4Kiaq1ezKTSSv7pg", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "xGNzAsakHgbbl9fwgSoiUg", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "ueL0t_7Yu_ev2RrWK9dgDA", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "_2jMPuiK-7nLepFdPu2TTQ", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "KDpFAWkLofuabBSpnNJY5A", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "9aJ1MVTthZw3QjqoG7mPjg", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "jnEv25Y2DosTq2sNnvmC9g", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "WZynqsGjqQLc_T8R80_-7g", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "7bD22UAtH56ikWYslOSIQg", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "2hmhZim4bX2lbjPSNc7LaA", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "HjvCwjM0EkFoYo8TFHjfww", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "e7krRmyE5upHv2gsEOdR8w", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "U6l20gH8YuOJMO8vF6_Ufw", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "twQFM-8T_Y4yYIqeEPk4XQ", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "ZeJWNwd7ipveJywGq2RCgg", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "6ptX8V8WW_IzhHXLJ4SRAA", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "1nR3kKOs938gcgnw6p5wjg", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "al9HKZ3kCJipAJW4uxzj4A", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "WyiTT3VHjzowMnOnUpZ7TQ", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "v8tuFxvNkKdZytWTn9BhMA", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "LdbANxQjzdvzBqUESYTUnw", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "Zk8UgB9MDoIHWFYgAxNlIQ", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "ub2VfE7SRLJABAClzGZp3A", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "9_CEU7Wmvmwlyvqr-PJD6w", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "hR1bG0jgd2_Z9Q5L6siTEw", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "bLnJqhQ8gWawYOujyDRC1A", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "LvLU1QT2SItRSsI0N-L1Fg", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "owNOHkJoqb7Bba4aCwTX-Q", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "5WBwvVVZJc90E6O28NAjkQ", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "mVaslo987DCd3YC_0FtWxA", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "2_vStvNMLUWCs4zLmbif6w", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "qIOAlXCCYrwN0VxEEH-Tmw", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "B6bEkY9sJ_GU2pD2Rwb4gg", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "RzKR9QcYP03EQ_8DxTxowg", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "YsDmYRzJo3kiwZvIe1r0Fg", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "5RqQOSTz5WBxZYH1iIzv4A", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "2iwT3iutZvmqzmu7oOkWFw", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "Hb-eDht12T4kjNtsa0y7vA", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "uwDuBWMQcRmdyBpnK0LkTg", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "KirXmL3Xzi7C4_E7NVRqSA", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "IyxW7CCYYUG8H0Pm7nhnYQ", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "NcIUA8l_kmbPEwqI9lzELg", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "V_mUZokSR80-VRCAqPAjjw", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "bVi0Rk_GfkrJJELLXaqEeA", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "vyKBwzRdNX4yiJDIFv37iw", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "nrwOQSXoRXfAYhkdjiUk8g", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "Jd2_ZC4ugEMSY9ElivNZgg", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "xN4yKQMzo3PIoQlFamUOLQ", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "OKf1e4V3HmpjzMXSlPhHcQ", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "W8_VAio_o5gJudXZZkQtPw", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "xpHKTZy-YAZTNRErL1X6Rw", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "ddFY9PpygYagv7-jVduB2Q", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "iHinXbZk2625noKq9XSvzA", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "4ttqjZMCsfz6X0kQ_KR0xQ", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "z5hRX3iJ5Ty_S38iG_WY3Q", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "vwPTqxzu6mzBxDP_f9nosQ", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "9yc2V6zNpLG58uPV_ykBog", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "wOvCuvf0ftfTxQ-8NJ6V4A", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "jYAqup9AF9N9wYAWYanZ-A", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "tuP7STBjszTvKcQLeFMnkw", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "Zn8DB-LeVvmRDKdEmWPsRw", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "OZHywdX0bT2MCmyUHoQNHA", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "anBWvFPOce4nl3qLX-H6Rg", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "HvdQVxpWHU9mmH0I_gtdKA", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "cy0vBvZu2Eb4XtRFCp8Seg", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "1m6viubAWUgsTgguIrJT6A", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "SXWnyFNLCehVlJPRxk7gAg", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "dgaNriM1VdI2nGochhHE_g", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "AvZu-DP8MdzBtXXJ2p4FMQ", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "ePqKbqXFBCbwBaWiN2Jo9w", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "qCf1QN11Qdncpqb7PhuyVw", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "V9jFJfuK3FzWCJGoY15EgQ", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "dtAGaV2JLVvljg-0LZTa_w", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "AgAkUVLN_axMY-bzbNCfCw", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "QqrEF8_ZQCGi63cL10J5oA", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "PqqnNrUtU7XTKQvUM4cyqQ", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "4qCe2wTRGqbjP0wkI2Yy3g", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "mpPZhqTzk2_Pz35gBQnbCw", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "NOh24SMS6k4pzNv8Ds7KDg", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "6AJwsgXr7YwsqneGVAdgzw", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "2NVIjqrdfK1JtcEmFLHdcQ", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "1HPdyg0OLRkjHeixVmbu0Q", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "BEYmqrP1_TC0nhnTGKkkJg", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "vObvFPMdZcbFA0isXxTD3Q", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "oNgT6-rh-2TOeAF16AxXVw", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "SCQvI5pAJmD-OMm37kkS6Q", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "XYyIWs-3J4bZRZDfcsMquQ", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "1wwwF6nTvUE9d70yZxJq6g", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "eW0p8TpZa-_BFG53B7tHgQ", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "zASGm-RyRNTY2xQir2nV_w", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "AUm7If5Cbvy20AnmyxE-xA", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "eWLC4zIz5UtJbgQ--Rxdsg", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "XipQLDbyTl5tsLlyzAWzug", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "MwyEUg5EXuqTf1mjKU08ng", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "zxdsVR_hHUzhBFfus4yd7A", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "AhRzrLCNagCX87EK-VBVog", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "2VdLKWG8e3bT7fTng4UNBg", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "EuWNk5SJB7wADVHoCtxAqg", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "9z2lUyfzZV8b2rkkiwSM4g", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "hKkPlYmHoS9Nb_UbGGqx8A", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "ry7XCoXXxS0DxRmzZLFybw", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "ftL-f4OoFFshVYSZwTOrYA", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "BbMUXd69i0tlWS2aoppwaQ", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "zQSyimbym2eF1eqRGrJwqw", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "BdHWUmVFuo1R8Lctv4K1Ow", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "msTXsZGFMWSCMsdf6yIB2Q", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "5IGFJRN06HiclnivxaFThQ", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "5S8ZK9XLdl4l645twbNYZQ", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "J9pgjC191T-odCmTAG-grQ", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "2kkjzgLwKHFmLAfR86kE3Q", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "WE064Ln20S4MQVT1hETCCw", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "E_oFzRY-7j9T04qHkORCsw", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "Ck09FempamAKGSPsV_bX-A", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "zNcDCPiUsE5aT6jyaCVtmA", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "jB5fXguSmlX65asSB3KIfQ", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "ApzxIf8AYh3MEgvF63Zuvw", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "bdGaFXlocJSuQnGWYaVMyQ", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "bQM3XhcOtdkZ4dGfTsIvKQ", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "MOZ5R0tqNmO2InOd3eDw5g", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "k_kEUZWc7Neeiz6aDfJb6A", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "rbAxZRKdMoMxeonDTmooFg", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "10tnq8x2qI7ix7VqVP0rMw", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "CfOBb6NU2awo8xclJpKU3g", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "Q-zg3X3OQ0gNABmwlgiczw", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "ZzYDbyn1zLc2xyoeCXXMNw", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "mbkBCEx8mgw9Qroo7xywPg", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "PyfhKE2ARZ-N_4tXrNwEIQ", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "xrKa2SpgWzPEEbji3Iw2DQ", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "Z16VudvRJkHtqzqADzCbfw", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "qjCl34rJ0zVUHaZ1irb8FA", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "VThwGCuC6JVaxAgnmuJDRg", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "v4_89HfTm05NFTuukjsl_g", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "GCx7TnLKgLtUcXLIfQYfFA", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "JYNBy2r3LVhJbLHE1bASfg", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "63x2uyv-JUTJISjEq4-JsA", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "skN-mgnOezFQr9YNh5G5TQ", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "U9BX6bMvXHk8umBYnS3Dog", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "FeSZi6LBCcAIipoSua6dXg", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "mY0oohk1udUbbBBYaa-d5w", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "DQuwci5xgJxXx7dxxp9FBA", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "4GPZAkK7M9ObDBsgMq7JSA", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "9fKBDFJZ_hDVtSSpyEmcww", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "yRo9B_VAiFPGhkz6yQXpbg", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "3vBVnzsJLRh8WtW3awKxeQ", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "vgg1dvDP-9tFWSacN4q0nA", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "GVc1Eh-Welogn5qgaK-PFA", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "FavssEgZjXFi2unEXePkVQ", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "vwrbegSwat5VrGBr9g_85Q", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "4sHkiQ0qURBjL_gVLQbGPw", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "-a5EfIQzUrb1pnMQpsvslw", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "NXjCypQNl7tBrdR3gkFqdg", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "9fG8-RRh1rzuCKN2TmF-QQ", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "sSoXtUwSGBKrZJhDmjo32A", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "Geq1Z8TB0gegMEgdLrQuaw", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "ePKsXWq7alN3Q1kQ6cKaUg", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "OwV-MtDBC2H08rVcBqP2mA", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "UBqLK5kg0kT72CIaBYa5Zg", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "W6dL03v4ONU43Y4f6m71OQ", "Cuisine": "mexican"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "C-8mGN7lt5rIraO5n-15ug", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "veku2cg2qaV-7MxwhOMBmg", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "2MAf_XemMP4_1YtFQHsaEQ", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "Nk3vYwmwsTtddMCdUAUhqw", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "cJ837cA4SILruB3ArOZiSw", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "s8JV0iCKXdxBfJY2fD8tMQ", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "_Jgmhw0ywyoGyglPwB1xGA", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "54SrQVVhGcvfuIkFabQ8KQ", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "cCesIqo-LQt0cRlZAnrAZQ", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "OfKH43VSRWrrv35jC9upAA", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "zIL78ktI7UMoOw8vHYtK2g", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "mWS4umRg2AyykyAClMrIRw", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "xMUZfoyzyJoTfZxrEZus4Q", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "kXW-IKPBMSRO9Gja2oPdSA", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "IGpYpTH38DIhUlUGuhCh3Q", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "mNeyjjcfrXdGf_mCyoolkw", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "Ig4LSE3TRPs5nSsfTgnniQ", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "Xd_l7jtUAZZAAvK8-mI2Jw", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "TWhfDmIripwg1tv4X59Oag", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "jVBDUEALQA2Ew37mARZpbg", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "MyQV4i518ZO4CLudtR8gLA", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "jUPBqTHSiGSRvFSPozb5yw", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "LHxZgTddXIp_S1sL3nNG9w", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "wEb_fHmbMuzT1of_E9LT2g", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "Xk3BVvlX-KXh6kJhbClMKw", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "GEbvV8QRegWwF6JQHfsOyA", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "9RZx48jjUP1ivoQhKgg5aA", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "mTnrikKr52osjrp4m6u4Vg", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "SaYTVG7wHCMDBofHCgXPaA", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "xt4sa64WOrpJvZBDPNPNYg", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "kkXVwonBLWcIuMVL8qJi5Q", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "6hKJePanmG9AxK4dfwgyyg", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "m86CNmYThtzzWB3nPnrhbg", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "X97pE0LRWOng1q66kjAz1g", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "8UE6djZm_RkoSPdUsW6yjQ", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "B2R7gy6mvvNjrm7UzzX-Gw", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "J5XNBZyUwgNQjllwJZG3Lg", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "xkvv0n7jbl4Ra3Vm_jfxaA", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "Sb8HlVySjNAhbpiQxb5zpA", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "ssGhu4n3emZ9kEPVf371IQ", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "FluYvW-qQBK6SXxX3aZZug", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "fpizllkijm5_tvb9xd8GnQ", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "oLg2HxLYChgvMRTK5ZSdKQ", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "IBgjj5VBu5JJvKgo9EzKrg", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "KF4dTBX9ITMTSjwEXxXZ6g", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "Ak_x6wJFehWnnitAk332QA", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "4LoroCI3VtQ17dyQa75-Rg", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "PYmjoid5P-Mw8dkkKxZy6w", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "8nXo6lNJlXQQIdy8Kf7J9Q", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "W_dIH72QFPiBcnUkFg29hg", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "StK7kgjMbqns4344oTFf9Q", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "0yg9DS4RDceQ6HgH3Jx80Q", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "tnxb_qM5e7J5wIfYwJB3Ig", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "XkQayHGmVaHmgucEyTkYKw", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "y64lCrHGTsrRuDmhoUA0nw", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "UiZl8EaCwEBr87w9LeLS1g", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "4aTAd0n1POMX0Dg-63pwRA", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "JtoOCEJ-frzPkk-2jzfk6A", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "GlrcoRE6wqaHFwU6BDNDqg", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "PmMH2PmTSFA4gofjvc1y-A", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "Xu8H24NxJJxEE-9wGp_AMA", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "1aD88qNRb08LGBkl84GQTA", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "uLWFI7kseoU98qHiGWVgsg", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "Gi4A4ibrznMIsy9oGi2t-g", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "veq1Bl1DW3UWMekZJUsG1Q", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "wV2YuZKjk5VhZz3I27xtsA", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "XsElXaLxUPKquI78poB8yw", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "lhouVemKjsTg1H0jkIYjlQ", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "Ge8vFkQdMm5T9uFO0AaS9w", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "lD8Uln022QOL0XWKGxGiKQ", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "-CZf3uyQ53o9lqMldBiq7A", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "MctQwL9Mp5X7DJk13VoERg", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "38YuedP0ItlKbC-ncJ1XCQ", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "H1087--iEwE6LhmQCGikaw", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "3Ic4C60oSH1cV2jknUXSjQ", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "pfmAcS-g6SiNG0KlLvrqnA", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "mVN2G1c5bRtAsNlr2Tbx6Q", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "Tt9Mkrgd5Zj_ZJEeU0L7Gg", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "wyR5dxVw0--yxNN1M_xnvw", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "0IwdwNnbro5RLLIlaxyfpQ", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "0vfOgeA35eFmaxMVIq3Oxw", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "kZlpYuEDs8j78A-qawCb4g", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "3axYlGbF2M-rHjz0uhKFcg", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "AqUu9jnS75xQ0N6x193zrw", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "uq5rHbGtBFwCwPkokIkKvQ", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "tOn-wEQ06ScrgeU5Ljw7Gw", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "ryvBsB9FrBBZDak87iGS1w", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "PjfnqELVT517Ahw1HHRR4Q", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "caMpDilQcA7fqKwu-6g_sg", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "8bIXIStb1SVu1sXYfcMH5g", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "JXcYD52B4190gIh6_RSXCg", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "Lw044EfH1h3XhUhri3ExfA", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "T-ciFE0hc6O2JDY8Y1cDgg", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "Z65cd3Z7JvwK8TnSVg-cfA", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "b2naaHiaR57Hm6JZG0njPg", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "_rGMxhD9BQ8D1VHqcmtdFQ", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "CtVc-dAD0kK62DHJUMgOlw", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "Gc7OVEIs4HodL4hw9U3C3w", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "q-LlhVYCht9jcVDgOxqYkw", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "Orbsfc3nI21mQ8cwSPahhg", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "11Nbr2oTRB5Uqi36L8if8g", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "yihja79D40NH8J6acX1Xwg", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "MlA4Kg59DyL9EmGORA2FdQ", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "26E3j9l0XW_onVIUP-ThCw", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "DW5SL9RM-kJnmRyYo4oEqg", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "y6XohzcYjUAQOD8U3NT_yw", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "DnEzC4ruuzuJACUqtHHRJA", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "r365te_7sFCiZojTq8URFQ", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "weA2tj_n5i4VW4VCsMmzug", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "fgtw4swOHXEFwZpBCG05rQ", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "hPcNSnzW_oJMAoa7fIWKQw", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "0moBSyrTezcT3uePV74nug", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "oT6z_r5S2i_sTxjU1E5SHQ", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "kH5RMIaFmd-bekCIhOcqDw", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "rkTJsacxaZ3pU0g8AJmr0A", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "QzKASdqNpVXkVUgb_uX43g", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "V7I8bRirWgqF-vnCc2z0Xw", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "8vVfUCgywlqp3zX1_uKBHA", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "dHKEJaysc51WnQ1Xfzkvpg", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "d3ebSjMLqixgStx7qoBExg", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "sDajjybHSYFw8gTVbknPGA", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "Me4TxTbPPQZQopW1wOGx5g", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "cTE0e96GYzet799EJeStoQ", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "Jyf4SNiBoU11dp28cGBoqA", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "LJTGRkX5yWoqx1jJ7E4zqw", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "J4UMkpCaWMMmRcNtE3mJtw", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "nMWqlWid2YfDeutioit_0w", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "-KKgqE2g4c1cH4YmmDR9CQ", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "hiTfA7vnxDSLv77nl6UQXQ", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "PYcL2z9gHj6-ZTlViT9Nqw", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "t7xqAMBQNH4ppsPSOMzFyg", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "PnGSE8JGbMZKtdHi9go7Kg", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "QpkKEFHK5dz8XT-osEXgJw", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "mqJU7hNRbTrffSyj-95MXw", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "vA5yC1MqC7N9gs9q-Kh2nQ", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "8SehQovJOuQDLbtzLLYLyw", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "bkIMbvXOcztDVz8bpyhMzQ", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "U5hCNNyJmb7f3dmC1HTzSQ", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "h5WkewI6U7NjLB_n6WgdvQ", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "NTwOc9yQ1xl5deeVzZqxfw", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "01isnBO1rFO2LTOeNfYl9w", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "3o8WcrZvEm0Bw37mDGN5XQ", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "b3lYtaBR1SlmH7NNDWi-vg", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "JnFV_qz7uWbLTY80K89J7Q", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "0y6eQXDw2RDLuBwkY02xGA", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "dNFsMw-z3Vsa5TbJd9Q4Ew", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "ddKmJRZ3D1iS-gbZq03OWQ", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "-NUtNV2QHsKXXGwjc1adRA", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "RNRLQXg_P2cGxLEMVlKZQA", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "I4i0ZpoMDmQSNnHOtml0wA", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "CDywb3LHVYZlQL2-woTiJA", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "u-MUL83NUy2gsbV80WZnAA", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "CEOm_NF7EeDZR4ozRZvCSg", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "cSRzfprFfAnT1nAcQMgrDA", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "jo9tEaSbZrHA_LNEH7lFBw", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "x2ATnp8-hXFhr_XznPYPMw", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "xEF3Kvd0yw74pjnlFB2Sgg", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "AdAZ_V986tGg7RVcx-6EEw", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "GoxvwD8A3v6ztNSY8hcrXA", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "mp7YQdBWIHqmJoZlr-K32g", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "k5NAz3-goMXKoUqPfOZ1Hw", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "tmzWZtu9Nimn7Hfas9XmcA", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "ejghbDOd5ipvlvhYotdSxw", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "NaHwHUfdbJeLmQQSSYMTjA", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "Hp1ZDTeJOP1NrY2aFtROgQ", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "nMyot99PkX5iYCdxHoRJqQ", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "KcTvqKKAtiudSOzklw9mng", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "Kw7Xwxm4WWRNIYGg-wMXXQ", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "5gVOw3RTaZ-NavNQx2M83g", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "lUQR6cZlHHKXOksH5xOTqA", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "S4NqVVRJlsepZgcCoS5jkw", "Cuisine": "american"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "dpo_TBvuRi2nEzuVdO4AiQ", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "QXgp1Ac10x6yDAPWFIxnbA", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "-OixbLnFLCzQclxCSbUQ8w", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "B3_K2kUVbYOU0VaLcj_LTw", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "LVGDm8ZYSzYom7SYsjgXfQ", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "VoAuIReq_cPUrFwxbWqG_Q", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "O1fUmxt3kbV-rnyjBtzAfw", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "I8lfxFF6ZfwAYbWBIwRSsA", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "-XYp6w50XbZfS90YddS5ew", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "UC3n_0vZ5zI1fvi7UzNZAg", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "KHdYPT0jUnUGdHGaY73mxg", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "AHrU1F123QPdVPTCnsy_xA", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "TMmiudSEF1PIXb8usY5c0Q", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "Bwq44rsLRFkT0Y2JF0Rpzg", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "egDEaHpDumYHzRUZ8JBU-w", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "f4ZveYR7fuBp_9klL8OgYQ", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "rKeLuHDI3PQZsPSVCEMHtw", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "R77JPNrA7EQybGCzd5wnVQ", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "-Q8MYIWoE4EsGQtudIOY0w", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "0IFDnYf3bhqxJR6hVrG7Gw", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "zq0zWPZYvtxOkJ7nDISJzw", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "WJS06XxRdc6DD1s4LWE9HA", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "HdztSsAsHbM6L-uT9sgvpg", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "HgEwORU1LJyrFVE_ll_pDg", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "VJyqoK4a57CH1jQtihTt3Q", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "wEawMdWT7UtZjEmmMTBiGA", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "z1OgXX3L9Ipl2mu-Hf4ADw", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "XgiG7K7ubHsj2JJ-c2sXnw", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "UrXJCVdmVc0pWxTkF4MhMQ", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "AyhDtnqo7BFOQYwKMjIOEg", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "7xe5Pd4fvN2vo05FP2XOeg", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "ukHJIaMG_d7ld1CTVXX7TQ", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "_Ahg6l14qXsAvSHDvS5g8Q", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "tMRlv8-ECIiQ2oEBniemYg", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "L2ZW-MdvRJ3gM2RIq8STbA", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "1cY1fppMJnHMKG4FIzj_4g", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "-NJL4kZAIc1Z-35IcN1ulQ", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "liZmIO0FqZwslLJfLDkfgw", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "VN1Exxhn9_IDPeQ51tpX0Q", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "2UrY1cvtQAcj4XbWBfqVpA", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "5-cv4xv4IBao7N1LSH6tHA", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "BF6pY829iPBERt15CG1g3w", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "597i6Nc0klWLu9dHWXViKA", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "Qcc3ZDRcCMPHvyLC8yxKdw", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "eGIY_25KFspf8KefDQMj-Q", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "HuUiXwo2rVKHZDwMeqNfQQ", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "GFdaWAW8wN2g5htYZzoUeg", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "kZ5q8Uwxt3MpLcvxEdPeFg", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "KRBRLMYKvTDv2LXHvRIsKA", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "JTuHPXUL3mlkfxPu-ymvNg", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "oyxk3hv9F7dGZGARmNDSYg", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "83BXSwE0166sObnXLUE4bQ", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "dl4QvM8WAzATC7ChNIQh3g", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "1jsYHR-ilh1iiYevAFSexg", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "5HQGOq8NA9Pe5kNhVA4hMA", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "JP49a9DEuzGIiLAjGRIFqA", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "M-QVdyff9TPobqVYw4H_qw", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "h42k89wMctW4LSi5psJj3g", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "a-Bq_yXFVk2PptoWpmry3w", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "MBOrVJAgdZ3Wm50e9arOeA", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "bivrss06gT7E37A0RnnkTw", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "pA_MSyTlJ9ZNGoRyUXi7mw", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "wGFSTTB6b4MHJJUzBnVJeg", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "qrydcGQpeDP_1oFvx3qOeg", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "f7jZvRH-h76F4emzvKytaQ", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "YS8pw7sYOBqaW23FCOqecg", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "33ry5dmopDOElU7zf1Sn2w", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "bCFhn4Xzp172eJGSZHYPAw", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "0L03onqNwxWLrbb_FCK79A", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "_c0MxccsmIBZcGLJpb4nSA", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "p2zm0HnXZkI2yCAuYLb45g", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "A_GbgtUSyGWpihHZOqMdwQ", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "Rf8cu_MnSAq-Al6JoalKYQ", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "9b_FvTUgkkUUMyL0nGhFtg", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "coQAQmIKG9dBPA6-RHqJag", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "jg5nc64wLYKwKAvz_lfMuA", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "QCpJlezYJnkZYNat-XYXYw", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "CDa0GJZDMPcjvhbx7RbG5Q", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "Cebmp5-kEcdb4dBPrMKkWg", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "HnTcWZbZJzNAYO8YseQlSQ", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "9tPXq7uSvo1hh_-bCCJNdA", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "XlCaR9Q3fW37uhWuCx92mQ", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "hdy924Rm4CkNXgO7R38YlA", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "LzyDj8z2CA03Jrs34L9Pgw", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "iS26QjjC-4GtP0YpoXwI8w", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "_ucIHYqW0ZwAdzaEIYnnsA", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "9DivSn3HsXe_Sm5mEdX2hQ", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "XEjkmHzGOepziSvP2uK4Xw", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "iUEvASoukxI6vrCYWYyK8g", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "ebhDBwRzD--eoiYcO8M18g", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "uruWfAY3-1GTtuyPxkB0Rw", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "SkD3MrsLIT1Wq-7eTIE-mQ", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "EjuI8hyZO4jREWj3BTh8gw", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "8SbvBebzRYaZuyxF-GEIDQ", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "sinDhwX8Egru_3FCI7bhkw", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "O8i5XlvcfzH1q-wpfURrpg", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "EbX_9tqAJs4gW51gZpOB7g", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "gEaZtaUQyGsp-O4AVcJWeg", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "pcVlzw0Id0MvP8MJYMRgJg", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "Tmc90kL5jelJ2c9CiGzSFA", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "ry5NiIPHNi4nLLEW8aXI7g", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "dqjko5ndMGayALuhwq3ghQ", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "3X6S6u_AtjumPPSu_-PDiw", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "Zd7W2WBh3WU5FO3zHXToZg", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "qNe3r33f17z1v10iEiB4DA", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "xJuKTbInUnTsLINLLH8ehw", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "jfnDwWBGK4JoWE5jbeKxSw", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "teuwAtlOMQq7pEl1oQtXVg", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "tVB11pOiDhPWlt_o6ylMNg", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "CgYWuNH0UHd5vp2vGgKflw", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "yQiII2hHgV5aEMtIA2VG0Q", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "AekKkXTaCXlYp95KrxlesA", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "nzkuelmXBAUnIuhpPPmJFw", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "xCE6-u-FWcyovRYd2uLG7A", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "_E28H7ts7mZFB7VqQ3t6NA", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "JNnSuWv6PEPe-US-Nkx6Fw", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "9IT7UsL-SGEz6ncR4oeJ9g", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "JRQBzjWWijnJAb0SLqHaxQ", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "QVWmn5jmy_TPmg0G71Dk5g", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "a23bfZBVjIhV32Em4hKHAA", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "QhE50zhSMnQaudpHW1jp7g", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "7PrDtZmAmasvCH41NO1Jpw", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "3GMHPnrkFAcqffw3T7JSdQ", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "ODJmiHFJoUuXJVlxGSX7Yw", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "XixegGx6pdU_H0MWWqN1_w", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "pvxX-nvg3o-eZDlvrtYhQQ", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "5OegdhV8-D1azwFJPqIydA", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "npiIhpcWePbVT3JYEcy3zg", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "Z5BSM-SK__BEb9SvPw9EKw", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "hA5QUlrSjpxMZ90Kof0bgA", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "Be5anr2hGPZg8tJhbDl6fw", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "dVR5KHPMZoU9rQvxhY5Otw", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "nFszVPUX4tj-oarjfBO0nw", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "uVoFnGvcwk2wSNwATtuf8g", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "-_J1rWztwR5fXFSqC6yPDg", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "ntiDPLkWm6GDLkYh0d2tBw", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "b6aquRz4EA_TtRn9CjtCWw", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "RdGWCbcxA79G1ZMPVL3SGQ", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "Jhz1WKHBtT1U9KJ-TmlVng", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "4yKYc9ngosSJ7Lk2LJE4ug", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "RDqOvt0UPVYBZVnbt2hdqg", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "ykf5siP-2CXY3leFbeeabQ", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "cegA4jf16vEt7NCQ7cpu2w", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "toykv8K0yg8qtvZSXRQ5bg", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "Gg7ytsn_Nlc8s3f0KZmdFQ", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "GwWmta1DHkZo0VDOLAJz8A", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "McU7XI3HoWFELTDaGc1SEw", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "rxWd1WzIqw-NyUYZMqFRog", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "VxMNQC96sgocGQ9sSchBgw", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "EDucGBSfQ0YIbxdHS-KnCg", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "R7mKCkD9ZZfeec92GW7esQ", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "ZfN9F6-5htE8LGLZo31igQ", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "vKeudwCE7db_MefjfJCSNQ", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "KXD44wWmrGf7mzyyr0bikw", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "W9t_RWcisBoXMS0iAl7frQ", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "eWSZHH4kfzS5NeNU1CMcyg", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "yCJHIM-PWl54K53ACOpoNg", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "uazg6WhYVOw3jhWCG_MDBg", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "K-X7ZuBuWoW7beVG8viFZg", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "7Qvh0oFRsoqrO9qNlcMKXQ", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "Xst2vGND8hy44VOmbLG3kQ", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "CpY77cDN1KS5EdiXMmWovw", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "F-1oWvnG3_pVYW0teRz3vg", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "AEHojbCPCrIhTko7olaqTg", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "T8WfkzuVi96qCpj1tWjlxw", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "2pJ782hnKTK0MWbc0H7EDw", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "AzW9hzF16jhHrlhrOQ-UfA", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "ap5ItL4WOhLDgdZbNdTBqw", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "X3T2rK-GrEgVUai-MeXAzg", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "pBIvJHn65iqlUh1L2tN-qg", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "ZfuZ2byArGq-5j8zX8Afeg", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "PP2tFTk0aUPCAwLn88g0yA", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "g7qtHQ_121mYWUdu3VWlrA", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "BaeUVrAj5f3YF1razW5bow", "Cuisine": "thai"}
+{"index": {"_index": "restaurant_list"}}
+{"BusinessID": "6F7qKaZaAR9ukgvR0NKTBg", "Cuisine": "thai"}
