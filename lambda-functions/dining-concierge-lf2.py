@@ -12,7 +12,7 @@ QUEUE_URL = 'https://sqs.us-east-1.amazonaws.com/898147176601/DiningRequestsQueu
 DYNAMO_TABLE_DATA = 'yelp-restaurants'
 SENDER_EMAIL = 'Jamiemai0210@gmail.com'
 OS_USERNAME = 'jm11065'
-OS_PASSWORD = 'Mm87568636!'
+OS_PASSWORD = '****!'
 
 def lambda_handler(event, context):
     sqs = boto3.client('sqs')
