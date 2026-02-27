@@ -11,7 +11,13 @@ def lambda_handler(event, context):
             body = json.loads(event['body'])
         else:
             body = event
-        user_input = body.get('message')
+            
+        if 'messages' in body:
+            user_input = body['messages'][0]['unstructured']['text']
+            user_id = body['messages'][0]['unstructured'].get('userId', 'default-user')
+        else:
+            user_input = body.get('message')
+            user_id = 'default-user'
     except Exception as e:
         user_input = None
 
@@ -25,19 +31,25 @@ def lambda_handler(event, context):
     try:
         response = lex_client.recognize_text(
             botId='RCXMTJ5CLQ',
-            botAlias_id='TSTALIASID',
+            botAliasId='TSTALIASID',
             localeId='en_US',
-            sessionId="default-user",
+            # sessionId="default-user",
+            sessionId=user_id,
             text=user_input
         )
 
         bot_messages = response.get('messages', [])
         final_text = bot_messages[0]['content'] if bot_messages else "No response"
 
-        # 3. CONSTRUCT THE RESPONSE (The Fix)
-        # The entire response is a dict, but the 'body' MUST be a string
         result_payload = {
-            'botResponse': final_text,
+            'messages': [
+                {
+                    'type': 'unstructured',
+                    'unstructured': {
+                        'text': final_text # Lex response text
+                    }
+                }
+            ],
             'intent': response['sessionState']['intent']['name']
         }
 
