@@ -1,3 +1,4 @@
+import os
 import boto3
 import json
 import random
@@ -5,14 +6,14 @@ import urllib3
 import base64
 from datetime import datetime
 
-REGION = 'us-east-1'
-OS_HOST = 'search-restaurant-domain-l3mm4srslyxrindmlnp2ggr4gy.aos.us-east-1.on.aws'
-INDEX = 'restaurant_list'
-QUEUE_URL = 'https://sqs.us-east-1.amazonaws.com/898147176601/DiningRequestsQueue'
-DYNAMO_TABLE_DATA = 'yelp-restaurants'
-SENDER_EMAIL = 'Jamiemai0210@gmail.com'
-OS_USERNAME = 'jm11065'
-OS_PASSWORD = 'Mm87568636!'
+REGION = os.environ.get('REGION', 'us-east-1')
+OS_HOST = os.environ['OS_HOST']
+INDEX = os.environ.get('INDEX', 'restaurant_list')
+QUEUE_URL = os.environ['QUEUE_URL']
+DYNAMO_TABLE_DATA = os.environ.get('DYNAMO_TABLE_DATA', 'yelp-restaurants')
+SENDER_EMAIL = os.environ['SENDER_EMAIL']
+OS_USERNAME = os.environ['OS_USERNAME']
+OS_PASSWORD = os.environ['OS_PASSWORD']
 
 def lambda_handler(event, context):
     sqs = boto3.client('sqs')

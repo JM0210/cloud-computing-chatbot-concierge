@@ -1,12 +1,13 @@
 import json
 import datetime
 import boto3
+import os
 
 # Configuration
 ALLOWED_CITIES = ['new york']
 ALLOWED_CUISINES = ['chinese', 'italian', 'japanese', 'mexican', 'indian', 'american']
 DYNAMO_TABLE_USER = 'UserLastSelection'
-QUEUE_URL = 'https://sqs.us-east-1.amazonaws.com/898147176601/DiningRequestsQueue'
+QUEUE_URL = os.environ.get('QUEUE_URL')
 
 db = boto3.resource('dynamodb')
 sqs = boto3.client('sqs')
@@ -28,8 +29,6 @@ def validate_booking(event, slots):
     # 2. Validate Cuisine 
     if slots.get('Cuisine') and slots['Cuisine'].get('value'):
         user_cuisine = slots['Cuisine']['value']['interpretedValue'].lower()
-        # if user_cuisine in ['yes', 'no', 'yeah']: return {'isValid': True}
-        
         if user_cuisine not in ALLOWED_CUISINES:
             return {
                 'isValid': False,
@@ -92,40 +91,9 @@ def lambda_handler(event, context):
     print(f"Received event from {source} for intent {intent_name}")
     
     if source == 'DialogCodeHook':
-        # slots_are_empty = True
-        # for v in slots.values():
-        #     if v is not None and v.get('value') is not None:
-        #         slots_are_empty = False
-        #         break
+        conf_state = event['sessionState']['intent'].get('confirmationState')
 
-        # if slots_are_empty and session_attrs.get('asked_history') != 'true':
-        if (not slots.get('Location') or not slots['Location'].get('value')) and session_attrs.get('asked_history') != 'true':
-            try:
-                table = db.Table(DYNAMO_TABLE_USER)
-                res = table.get_item(Key={'userId': user_id})
-                if 'Item' in res:
-                    h_cuisine = res['Item']['cuisine']
-                    h_location = res['Item']['location']
-                    session_attrs['asked_history'] = 'true'
-                    
-                    return {
-                        "sessionState": {
-                            "sessionAttributes": session_attrs,
-                            "dialogAction": {"type": "ConfirmIntent"},
-                            "intent": {
-                                "name": intent_name,
-                                "slots": {
-                                    "Location": {"value": {"interpretedValue": h_location, "originalValue": h_location}},
-                                    "Cuisine": {"value": {"interpretedValue": h_cuisine, "originalValue": h_cuisine}}
-                                }
-                            }
-                        },
-                        "messages": [{"contentType": "PlainText", "content": f"Welcome back! Last time you searched for {h_cuisine} in {h_location}. Use these details again?"}]
-                    }
-            except Exception as e: 
-                print(f"DB Error: {e}")
-                
-        if event['sessionState']['intent'].get('confirmationState') == 'Denied':
+        if conf_state == 'Denied':
             session_attrs['asked_history'] = 'true'
             return {
                 "sessionState": {
@@ -136,6 +104,49 @@ def lambda_handler(event, context):
                 "messages": [{"contentType": "PlainText", "content": "OK, let's start fresh. Where are you looking to dine?"}]
             }
 
+        if conf_state == 'Confirmed':
+            return {
+                "sessionState": {
+                    "sessionAttributes": session_attrs,
+                    "dialogAction": {"type": "Delegate"},
+                    "intent": {"name": intent_name, "slots": slots}
+                }
+            }
+
+        if (not slots.get('Location') or not slots['Location'].get('value')) and session_attrs.get('asked_history') != 'true':
+            try:
+                table = db.Table(DYNAMO_TABLE_USER)
+                res = table.get_item(Key={'userId': user_id})
+                if 'Item' in res:
+                    item = res['Item']
+                    session_attrs['asked_history'] = 'true'
+                    
+                    for slot_name in slots.keys():
+                        if slot_name in item and item[slot_name]:
+                            slots[slot_name] = {
+                                "value": {
+                                    "interpretedValue": item[slot_name], 
+                                    "originalValue": item[slot_name]
+                                }
+                            }
+                    
+                    h_cuisine = item.get('Cuisine', 'your favorite')
+                    h_location = item.get('Location', 'the location')
+                    
+                    return {
+                        "sessionState": {
+                            "sessionAttributes": session_attrs,
+                            "dialogAction": {"type": "ConfirmIntent"},
+                            "intent": {
+                                "name": intent_name,
+                                "slots": slots 
+                            }
+                        },
+                        "messages": [{"contentType": "PlainText", "content": f"Welcome back! Last time you searched for {h_cuisine} in {h_location}. Use the exact same details (including your email) again?"}]
+                    }
+            except Exception as e: 
+                print(f"DB Error: {e}")
+                
         validation_result = validate_booking(event, slots)
         if not validation_result['isValid']:
             return {
@@ -162,31 +173,24 @@ def lambda_handler(event, context):
         booking_data = {k: slots[k]['value']['interpretedValue'] for k in slots if slots[k] and slots[k].get('value')}
         booking_data['userId'] = user_id
 
-        # --- Add user last search to DynamoDB ---
         try:
-            db.Table(DYNAMO_TABLE_USER).put_item(
-                Item={
-                    'userId': user_id, 
-                    'location': booking_data['Location'], 
-                    'cuisine': booking_data['Cuisine']
-                }
-            )
-        except Exception as e: print(f"DB Save Error: {e}")
+            db.Table(DYNAMO_TABLE_USER).put_item(Item=booking_data)
+        except Exception as e: 
+            print(f"DB Save Error: {e}")
 
-        # 2. Push to SQS
         sqs.send_message(QueueUrl=QUEUE_URL, MessageBody=json.dumps(booking_data))
 
         session_attrs['asked_history'] = 'false'
 
         return {
-                    "sessionState": {
-                        "sessionAttributes": session_attrs, 
-                        "dialogAction": {"type": "Close"},
-                        "intent": {
-                            "name": intent_name, 
-                            "slots": slots, 
-                            "state": "Fulfilled"
-                        }
-                    },
-                    "messages": [{"contentType": "PlainText", "content": "I've received your request. I'll search for the best options and email you shortly!"}]
+            "sessionState": {
+                "sessionAttributes": session_attrs, 
+                "dialogAction": {"type": "Close"},
+                "intent": {
+                    "name": intent_name, 
+                    "slots": slots, 
+                    "state": "Fulfilled"
                 }
+            },
+            "messages": [{"contentType": "PlainText", "content": "I've received your request. I'll search for the best options and email you shortly!"}]
+        }
