@@ -4,8 +4,10 @@ import json
 import random
 import urllib3
 import base64
+import traceback
 from datetime import datetime
 
+# Environment Variables
 REGION = os.environ.get('REGION', 'us-east-1')
 OS_HOST = os.environ['OS_HOST']
 INDEX = os.environ.get('INDEX', 'restaurant_list')
@@ -18,6 +20,7 @@ OS_PASSWORD = os.environ['OS_PASSWORD']
 def lambda_handler(event, context):
     sqs = boto3.client('sqs')
     
+    # 1. Receive message from SQS
     response = sqs.receive_message(
         QueueUrl=QUEUE_URL,
         MaxNumberOfMessages=1,
@@ -26,34 +29,57 @@ def lambda_handler(event, context):
     )
     
     if 'Messages' not in response or not response['Messages']:
+        print("SQS: No messages available in the queue.")
         return {"statusCode": 200, "body": "No messages found"}
     
     message = response['Messages'][0]
-    
+    receipt_handle = message['ReceiptHandle']
+    print(f"SQS: Received message ID: {message['MessageId']}")
+
     try:
+        # 2. Parse Body - No defaults used to ensure strict data presence
         body = json.loads(message['Body'])
+        print(f"DEBUG: Parsed Body: {body}")
         
-        cuisine = body.get('Cuisine', 'Japanese')
-        email = body.get('Email')
-        count = body.get('GuestCount', '2')
-        date = body.get('Date', 'today')
-        time = body.get('Time', '7 pm')
+        cuisine = body['Cuisine']
+        email = body['Email']
+        count = body['GuestCount']
+        date = body['Date']
+        time = body['Time']
         
-        if not email:
+        # 3. Step 1: Query OpenSearch for Business IDs
+        business_ids = get_ids_from_opensearch(cuisine)
+        print(f"DEBUG: OpenSearch IDs found: {business_ids}")
+        
+        if not business_ids:
+            print(f"WARNING: No restaurants found for cuisine: {cuisine}. Deleting message.")
+            sqs.delete_message(QueueUrl=QUEUE_URL, ReceiptHandle=receipt_handle)
             return
 
-        business_ids = get_ids_from_opensearch(cuisine)
+        # 4. Step 2: Query DynamoDB for restaurant details
+        restaurants = get_details_from_dynamo(business_ids)
+        print(f"DEBUG: Retrieved {len(restaurants)} restaurant details from DynamoDB.")
         
-        if business_ids:
-            restaurants = get_details_from_dynamo(business_ids)
-            if restaurants:
-                send_email(email, cuisine, count, date, time, restaurants)
-            
-        receipt_handle = message['ReceiptHandle']
-        sqs.delete_message(QueueUrl=QUEUE_URL, ReceiptHandle=receipt_handle)
+        if not restaurants:
+            print("WARNING: Could not find details in DynamoDB for the IDs found. Deleting message.")
+            sqs.delete_message(QueueUrl=QUEUE_URL, ReceiptHandle=receipt_handle)
+            return
 
+        # 5. Step 3: Send Email via SES
+        send_email(email, cuisine, count, date, time, restaurants)
+        print(f"SUCCESS: Email sent successfully to {email}")
+
+        # 6. Final Step: Delete from SQS only if processing succeeded
+        sqs.delete_message(QueueUrl=QUEUE_URL, ReceiptHandle=receipt_handle)
+        print("SQS: Message deleted from queue.")
+
+    except KeyError as e:
+        print(f"ERROR: Missing required key in message body: {str(e)}")
+        # Delete malformed messages to prevent infinite loops
+        sqs.delete_message(QueueUrl=QUEUE_URL, ReceiptHandle=receipt_handle)
     except Exception as e:
-        print(f"Error: {str(e)}")
+        print("ERROR: An unexpected error occurred. Message will remain in queue for retry.")
+        print(traceback.format_exc())
         
     return {"statusCode": 200, "body": "Process completed"}
 
@@ -64,11 +90,12 @@ def get_ids_from_opensearch(cuisine):
     clean_host = OS_HOST.replace('https://', '').replace('http://', '')
     url = f"https://{clean_host}/{INDEX}/_search"
     
+    # Note: Ensure the 'Cuisine' case matches your OpenSearch index data
     query = {
         "size": 15,
         "query": {
             "match": {
-                "Cuisine": cuisine.lower() 
+                "Cuisine": cuisine.strip()
             }
         }
     }
@@ -82,16 +109,23 @@ def get_ids_from_opensearch(cuisine):
             'Authorization': f'Basic {encoded_auth}'
         }
         r = http.request('POST', url, body=encoded_data, headers=headers)
+        
         if r.status != 200:
+            print(f"ERROR: OpenSearch status {r.status}. Data: {r.data.decode()}")
             return []
 
         res_json = json.loads(r.data.decode('utf-8'))
         hits = res_json.get('hits', {}).get('hits', [])
         
         all_ids = [h.get('_source', {}).get('BusinessID') for h in hits if h.get('_source', {}).get('BusinessID')]
+        
+        if not all_ids:
+            return []
+            
         return random.sample(all_ids, min(len(all_ids), 3))
         
-    except Exception:
+    except Exception as e:
+        print(f"ERROR: OpenSearch connection error: {str(e)}")
         return []
 
 def get_details_from_dynamo(ids):
@@ -105,7 +139,10 @@ def get_details_from_dynamo(ids):
             item = response.get('Item')
             if item:
                 results.append(item)
-        except Exception:
+            else:
+                print(f"WARNING: BusinessID {bid} not found in DynamoDB.")
+        except Exception as e:
+            print(f"ERROR: DynamoDB GetItem failed for {bid}: {str(e)}")
             continue
     return results
 
@@ -125,11 +162,15 @@ def send_email(to_email, cuisine, count, date, time, restaurants):
         f"Enjoy your meal!"
     )
 
-    ses.send_email(
-        Source=SENDER_EMAIL,
-        Destination={'ToAddresses': [to_email]},
-        Message={
-            'Subject': {'Data': 'Your Restaurant Recommendations'},
-            'Body': {'Text': {'Data': body_text}}
-        }
-    )
+    try:
+        ses.send_email(
+            Source=SENDER_EMAIL,
+            Destination={'ToAddresses': [to_email]},
+            Message={
+                'Subject': {'Data': 'Your Restaurant Recommendations'},
+                'Body': {'Text': {'Data': body_text}}
+            }
+        )
+    except Exception as e:
+        print(f"ERROR: SES failed to send email to {to_email}: {str(e)}")
+        raise e # Raise to prevent SQS deletion so it can retry

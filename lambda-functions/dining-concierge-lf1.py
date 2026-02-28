@@ -5,9 +5,10 @@ import os
 
 # Configuration
 ALLOWED_CITIES = ['new york']
-ALLOWED_CUISINES = ['chinese', 'italian', 'japanese', 'mexican', 'indian', 'american']
+ALLOWED_CUISINES = ['chinese', 'italian', 'japanese', 'mexican', 'thai', 'american']
 DYNAMO_TABLE_USER = 'UserLastSelection'
 QUEUE_URL = os.environ.get('QUEUE_URL')
+# QUEUE_URL = 'https://sqs.us-east-1.amazonaws.com/898147176601/DiningRequestsQueue'
 
 db = boto3.resource('dynamodb')
 sqs = boto3.client('sqs')
@@ -181,7 +182,8 @@ def lambda_handler(event, context):
         sqs.send_message(QueueUrl=QUEUE_URL, MessageBody=json.dumps(booking_data))
 
         session_attrs['asked_history'] = 'false'
-
+        print(f"Booking data sent to queue: {booking_data}")
+        print(f"Session attrs: {session_attrs}")
         return {
             "sessionState": {
                 "sessionAttributes": session_attrs, 
